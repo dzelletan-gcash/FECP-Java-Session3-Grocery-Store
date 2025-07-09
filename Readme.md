@@ -11,16 +11,24 @@ This program uses HashMap to manage a grocery store’s inventory, where each pr
 ## Screenshot of Output
 
 View Product & Add Product
-![Project Screenshot](./docs/view-add-output.png)
+![View Product & Add Product](./docs/view-add-output.png)
 
 Check Product
-![Project Screenshot](./docs/check-output.png)
+![Check Product](./docs/check-output.png)
 
 Update Product
-![Project Screenshot](./docs/update-output.png)
+![Update Product](./docs/update-output.png)
 
 Remove Product
-![Project Screenshot](./docs/remove-output.png)
+![Remove Product](./docs/remove-output.png)
 
 Exit
-![Project Screenshot](./docs/exit-output.png)
+![Exit](./docs/exit-output.png)
+
+### Unit Testing
+
+Unit Test Output
+![Unit Test Output](./docs/unit-test-output.png)
+
+Test Case Coverage
+![Test Case Coverage](./docs/coverage-output.png)
